@@ -1,0 +1,4 @@
+public class JavaAdd
+{
+static int x=10;
+}
